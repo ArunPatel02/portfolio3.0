@@ -310,13 +310,13 @@ export default function Overview({ global, isLight }) {
                 {isLight ? (
                   <Image
                     src={NameDark}
-                    alt="Abhinav Gupta"
+                    alt="Arun Patel"
                     className={classes.myName}
                   />
                 ) : (
                   <Image
                     src={Name}
-                    alt="Abhinav Gupta"
+                    alt="Arun Patel"
                     className={classes.myName}
                   />
                 )}

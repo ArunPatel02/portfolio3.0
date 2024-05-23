@@ -56,7 +56,7 @@ export default function MyApp(props) {
         {/* <!-- Replace   «example.com/image01.jpg» with your own --> */}
         <meta
           property="og:image"
-          content="https://abhinavvgupta.com/logo.png/"
+          content="https://arunpatel.vercel.app/logo.png/"
         />
 
         {/* <!-- No need to change anything here --> */}

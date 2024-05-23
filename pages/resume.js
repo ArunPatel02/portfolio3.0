@@ -126,7 +126,7 @@ const Resume = () => {
             </Box>
             <Box>
               <Typography variant="h4" color="secondary">
-                Abhinav Gupta
+                Arun Patel
               </Typography>
               <Typography variant="body1" color="secondary">
                 UI/UX Designer

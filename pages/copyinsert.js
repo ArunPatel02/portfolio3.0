@@ -342,7 +342,7 @@ export default function Mygenie({ isLight }) {
         />
         <meta
           property="og:image"
-          content="https://abhinavvgupta.com/copyinsert.png/"
+          content="https://arunpatel.vercel.app/copyinsert.png/"
         />
 
         {/* <!-- No need to change anything here --> */}
