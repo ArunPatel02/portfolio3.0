@@ -1,0 +1,37 @@
+{
+  "name": "portfolio3",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.11.0",
+    "@emotion/css": "^11.11.2",
+    "@emotion/react": "^11.11.1",
+    "@emotion/server": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.1",
+    "@mui/material": "^5.15.1",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.9",
+    "@mui/styles": "^5.15.1",
+    "@svgr/webpack": "^8.1.0",
+    "@vercel/analytics": "^1.1.1",
+    "@vercel/speed-insights": "^1.0.3",
+    "aos": "^3.0.0-beta.6",
+    "clsx": "^2.0.0",
+    "lottie-web": "^5.12.2",
+    "next": "^14.0.4",
+    "react": "^18",
+    "react-animated-cursor": "^2.11.2",
+    "react-dom": "^18",
+    "react-parallax": "^3.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4"
+  }
+}
