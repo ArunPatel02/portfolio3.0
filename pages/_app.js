@@ -64,14 +64,14 @@ export default function MyApp(props) {
         <meta property="og:image:type" content="image/jpeg" />
 
         {/* <!-- Size of image. Any size up to 300. Anything above 300px will not work in WhatsApp --> */}
-        <meta property="og:image:width" content="512" />
-        <meta property="og:image:height" content="512" />
+        <meta property="og:image:width" content="300" />
+        <meta property="og:image:height" content="300" />
 
         {/* <!-- Website to visit when clicked in fb or WhatsApp--> */}
-        <meta property="og:url" content="https://abhinavvgupta.com/" />
+        <meta property="og:url" content="https://arunpatel.vercel.app/" />
 
         <meta name="author" content="Arun Patel" />
-        <link rel="canonical" href="https://www.abhinavvgupta.com/" />
+        <link rel="canonical" href="https://arunpatel.vercel.app/" />
 
         {/* <!-- Chrome, Firefox OS and Opera --> */}
         <meta name="theme-color" content="#151515" />

@@ -335,11 +335,29 @@ export default function Mygenie({ isLight }) {
           Implemented features include backup functionality and
           app password protection for enhanced security."
         />
-        <link rel="canonical" href="https://www.abhinavvgupta.com/mygenie" />
+        <link rel="canonical" href="https://arunpatel.vercel.app/copyinsert" />
         <meta
           name="keywords"
           content="React Native Arun Patel app, Social media post description generator, Hashtag generator app, Custom font app, Social media backup app, Google Drive backup app, Password-protected app, Social media assistant app, Content creation tool, Post enhancement app, Social media content manager, Post caption generator, Trending hashtag app, Font customization tool, Data backup and security app, Social media management app"
         />
+        <meta
+          property="og:image"
+          content="https://abhinavvgupta.com/copyinsert.png/"
+        />
+
+        {/* <!-- No need to change anything here --> */}
+        <meta property="og:type" content="website" />
+        <meta property="og:image:type" content="image/jpeg" />
+
+        {/* <!-- Size of image. Any size up to 300. Anything above 300px will not work in WhatsApp --> */}
+        <meta property="og:image:width" content="300" />
+        <meta property="og:image:height" content="300" />
+
+        {/* <!-- Website to visit when clicked in fb or WhatsApp--> */}
+        <meta property="og:url" content="https://arunpatel.vercel.app/copyinsert" />
+
+        <meta name="author" content="Arun Patel" />
+        <link rel="canonical" href="https://arunpatel.vercel.app/copyinsert" />
       </Head>
       <Appbar />
       <Container

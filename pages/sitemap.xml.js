@@ -8,55 +8,25 @@ export const getServerSideProps = async ({ res }) => {
 
   const allLinks = [
     {
-      url: "https://www.abhinavvgupta.com",
+      url: "https://arunpatel.vercel.app/",
       lastModified: new Date(),
       //   changeFrequency: "yearly",
       //   priority: 1,
     },
     {
-      url: "https://www.abhinavvgupta.com/mygenie",
+      url: "https://arunpatel.vercel.app/copyinsert",
       lastModified: new Date(),
       //   changeFrequency: "monthly",
       //   priority: 0.8,
     },
     {
-      url: "https://www.abhinavvgupta.com/NFT",
+      url: "https://www.linkedin.com/in/arunpatel02/",
       lastModified: new Date(),
       //   changeFrequency: "weekly",
       //   priority: 0.5,
     },
     {
-      url: "https://www.abhinavvgupta.com/codeninja",
-      lastModified: new Date(),
-      //   changeFrequency: "weekly",
-      //   priority: 0.5,
-    },
-    {
-      url: "https://www.abhinavvgupta.com/letsconnect",
-      lastModified: new Date(),
-      //   changeFrequency: "weekly",
-      //   priority: 0.5,
-    },
-    {
-      url: "https://www.abhinavvgupta.com/parkwise",
-      lastModified: new Date(),
-      //   changeFrequency: "weekly",
-      //   priority: 0.5,
-    },
-    {
-      url: "https://www.linkedin.com/in/abhinavvgupta/",
-      lastModified: new Date(),
-      //   changeFrequency: "weekly",
-      //   priority: 0.5,
-    },
-    {
-      url: "https://www.behance.net/abhinavvgupta",
-      lastModified: new Date(),
-      //   changeFrequency: "weekly",
-      //   priority: 0.5,
-    },
-    {
-      url: "https://dribbble.com/Abhinav_19",
+      url: "https://github.com/ArunPatel02",
       lastModified: new Date(),
       //   changeFrequency: "weekly",
       //   priority: 0.5,
