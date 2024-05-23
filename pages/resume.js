@@ -118,7 +118,7 @@ const Resume = () => {
   return (
     <Container maxWidth="xl" component="main">
       <Appbar />
-      <Box component="section" className={classes.mainConainer}>
+      {/* <Box component="section" className={classes.mainConainer}>
         <Box className={classes.flexContainer}>
           <Box className={classes.detailContainer}>
             <Box className={classes.logoWrapper}>
@@ -410,7 +410,7 @@ const Resume = () => {
             </Box>
           </Box>
         </Box>
-      </Box>
+      </Box> */}
     </Container>
   );
 };

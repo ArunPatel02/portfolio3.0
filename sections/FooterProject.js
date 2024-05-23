@@ -199,7 +199,7 @@ export default function Footer({ global, isLight }) {
                 </Typography>
               </Link>
               <Link
-                href="https://drive.google.com/file/d/1RIlEsKT-F_rHrk06E6Gsvq1tACNLvfQh/view?usp=sharing"
+                href="https://drive.google.com/file/d/1vhN0d0esa32Qy57ZPI3NQQPAkDHi3vlc/view?usp=sharing"
                 aria-label="resume"
               >
                 <Typography variant="h5" color="secondary">
