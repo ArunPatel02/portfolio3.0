@@ -36,7 +36,7 @@ export default function MyApp(props) {
   }, []);
 
   const projectsLinks = {
-    cahtbuddy: "https://github.com/ArunPatel02/chatbuddy",
+    chatbuddy: "https://github.com/ArunPatel02/chatbuddy",
   };
 
   return (
